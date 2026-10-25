@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-25T22:10:22+00:00",
+ "updated": "2026-10-25T22:14:25+00:00",
  "messages": [
   {
    "category": "Basic",
    "title": "Uber Randy",
    "level": "Humor",
-   "en": "Hello! My name is Uber Randy. Feel free to call me by my first name … UBER.",
-   "text": "¡Hola! Me llamo Uber Randy. Puede llamarme por mi primer nombre… ¡UBER!",
+   "en": "My name is Uber Randy. Feel free to call me by my first name … UBER.",
+   "text": "Me llamo Uber Randy. Puede llamarme por mi primer nombre… ¡UBER!",
    "language": "Spanish",
-   "audio": "audio/367db6fe47c1ae27e8cdcd7498a83b5f51996261.mp3"
+   "audio": "audio/a6c71eba0ea9bad8065653bd307bc18cdb08063c.mp3"
   },
   {
    "category": "Basic",
