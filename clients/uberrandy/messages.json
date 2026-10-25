@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:14:25+00:00",
+ "updated": "2026-10-25T22:17:43+00:00",
  "messages": [
   {
    "category": "Basic",
@@ -9,6 +9,15 @@
    "text": "Me llamo Uber Randy. Puede llamarme por mi primer nombre… ¡UBER!",
    "language": "Spanish",
    "audio": "audio/a6c71eba0ea9bad8065653bd307bc18cdb08063c.mp3"
+  },
+  {
+   "category": "Base",
+   "title": "Elizabeth is my wife",
+   "level": "Humor",
+   "en": "Do you know Elizabeth? She is my wife. Have you met her? She is from Mexico City.",
+   "text": "¿Conoce a Elizabeth? Es mi esposa. ¿Ya la ha conocido? Es de la Ciudad de México.",
+   "language": "Spanish",
+   "audio": "audio/2cdd23e88dfd0e04c5f50e4bdd79327b34a0ab69.mp3"
   },
   {
    "category": "Basic",
