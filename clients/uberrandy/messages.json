@@ -1,0 +1,131 @@
+{
+ "updated": "2026-10-25T21:28:31+00:00",
+ "messages": [
+  {
+   "category": "Basic",
+   "title": "Uber Randy",
+   "level": "Humor",
+   "en": "My name is Uber Randy. Feel free to call me by my first name … UBER.",
+   "text": "Me llamo Uber Randy. Puede llamarme por mi primer nombre… ¡UBER!",
+   "language": "Spanish",
+   "audio": "audio/a6c71eba0ea9bad8065653bd307bc18cdb08063c.mp3"
+  },
+  {
+   "category": "Basic",
+   "title": "Do you have your seatbelt on?",
+   "level": "Humor",
+   "en": "Do you have your seatbelt on? If not, I will tell my truck to eject you from the top of the truck.",
+   "text": "¿Ya se abrochó el cinturón de seguridad? Si no, le voy a decir a mi camioneta que lo expulse por el techo.",
+   "language": "Spanish",
+   "audio": "audio/9d7370c59931c3e7c69619b9a9987f4634bebd70.mp3"
+  },
+  {
+   "category": "Basic",
+   "title": "Where are we going",
+   "level": "Fact",
+   "en": "I can take you to anywhere you like. Chicago, Milwaukee or the Casino!",
+   "text": "Puedo llevarle a donde usted quiera. ¡Chicago, Milwaukee o el casino!",
+   "language": "Spanish",
+   "audio": "audio/3b2dc94fc20f35b83bd2d49af3c3956eb3577922.mp3"
+  },
+  {
+   "category": "CasaAlba",
+   "title": "Casa Alba History",
+   "level": "History",
+   "en": "Welcome to a service provided by Casa Alba Melanie in Green Bay. I was part of the founding committee many years ago",
+   "text": "Bienvenido a un servicio ofrecido por Casa Alba Melanie en Green Bay. Hace muchos años formé parte del comité fundador.",
+   "language": "Spanish",
+   "audio": "audio/ee93befcf89572037103474d16adf36f4276ef90.mp3"
+  },
+  {
+   "category": "CasaAlba",
+   "title": "Homeless",
+   "level": "Humor",
+   "en": "We talk about these homeless people every week that we drive past them. On November 1, the shelter opens so they can sleep inside at night. Can you imagine how cold it is sleeping on the streets of Green Bay in the winter?",
+   "text": "Cada semana, cuando pasamos junto a estas personas sin hogar, hablamos de ellas. El 1 de noviembre abre el albergue para que puedan dormir adentro por la noche. ¿Se imagina el frío que hace al dormir en las calles de Green Bay en invierno?",
+   "language": "Spanish",
+   "audio": "audio/d6eb54923e53887cc24bff9d00e5a58bf7bf4d05.mp3"
+  },
+  {
+   "category": "CasaAlba",
+   "title": "Homeless",
+   "level": "Fundraising",
+   "en": "We meet these people on the streets on Wednesday and Thursday evenings to give them food. If you want to be a part of it, let me know.",
+   "text": "Nos encontramos con estas personas en la calle los miércoles y jueves por la noche para darles comida. Si quiere participar, avíseme.",
+   "language": "Spanish",
+   "audio": "audio/cfe2afbaab77fa570c409fd05206cc7111127d8d.mp3"
+  },
+  {
+   "category": "Basic",
+   "title": "Hola Hola",
+   "level": "Fact",
+   "en": "I created this application so that I could talk to all of you.",
+   "text": "Creé esta aplicación para poder hablar con todos ustedes.",
+   "language": "Spanish",
+   "audio": "audio/d7339f69bb4b4aa54579fecf00cb5726f096f616.mp3"
+  },
+  {
+   "category": "Information",
+   "title": "My band scheudle",
+   "level": "Fact",
+   "en": "I mentioned this last week. Today I will remind you. My band is playing at the Cup of Joy in Green Bay on on Friday November 27. You can come and listen to our Christmas show. It starts at 7:30pm. It’s a free show so you an invite your family to come too.",
+   "text": "Se lo mencioné la semana pasada, y hoy se lo recuerdo. Mi banda va a tocar en el Cup of Joy en Green Bay el viernes 27 de noviembre. Puede venir a escuchar nuestro concierto de Navidad. Empieza a las siete y media de la noche. La entrada es gratis, así que también puede invitar a su familia.",
+   "language": "Spanish",
+   "audio": "audio/8ca1c3eeb7eaa384ca4bed4e0194a32cccc19298.mp3"
+  },
+  {
+   "category": "History-Mexico",
+   "title": "History tour guide",
+   "level": "History",
+   "en": "I have some history information about Mexico. Are you ready for me to ask my questions?",
+   "text": "Tengo información sobre la historia de México. ¿Está listo para mis preguntas?",
+   "language": "Spanish",
+   "audio": "audio/0448374bb5dc66f491a84d143c19a7af9c9c3b9c.mp3"
+  },
+  {
+   "category": "History-Mexico",
+   "title": "Famous person",
+   "level": "History",
+   "en": "Last week, I asked the same question, but today I'm going to give you more information about how to answer the questions. Who is the most famous person that you've ever met in person? Maybe its someone that is a musician or an actor or a politician? Someone that you actually met in person.",
+   "text": "La semana pasada le hice la misma pregunta, pero hoy le voy a dar más pistas para contestarla. ¿Quién es la persona más famosa que ha conocido en persona? ¿Tal vez un músico, un actor o un político? Alguien a quien de verdad haya conocido en persona.",
+   "language": "Spanish",
+   "audio": "audio/c4a33547abac9e16aa56ee8cdaeaab16f4fe87db.mp3"
+  },
+  {
+   "category": "History-Green Bay",
+   "title": "Green Bay Established",
+   "level": "History",
+   "en": "Green Bay, Wisconsin, was officially incorporated as a city on March 2, 1854. The name Green Bay, Wisconsin, comes from the greenish appearance of the waters and surrounding vegetation of Green Bay, the arm of Lake Michigan on which the city sits. French explorers originally called the area La Baye des Puants (“Bay of the Stinkers”) in the 1600s. By the 1700s, the French also used the name La Baie Verte, meaning “The Green Bay.” English-speaking settlers eventually adopted the name Green Bay.",
+   "text": "Green Bay, Wisconsin, se constituyó oficialmente como ciudad el 2 de marzo de 1854. El nombre Green Bay viene del color verdoso del agua y de la vegetación que rodea a Green Bay, el brazo del lago Michigan donde está la ciudad. En el siglo diecisiete, los exploradores franceses llamaron a la zona La Baye des Puants, que quiere decir «la bahía de los apestosos». Para el siglo dieciocho, los franceses también usaban el nombre La Baie Verte, que quiere decir «la bahía verde». Con el tiempo, los colonos de habla inglesa adoptaron el nombre Green Bay.",
+   "language": "Spanish",
+   "audio": "audio/7cca47efde2f665e0b78c042123a949eb0e4c7f7.mp3"
+  },
+  {
+   "category": "History-Green Bay",
+   "title": "Wisconsin Established",
+   "level": "History",
+   "en": "Wisconsin officially became the 30th state of the United States on May 29, 1848",
+   "text": "Wisconsin se convirtió oficialmente en el estado número 30 de los Estados Unidos el 29 de mayo de 1848.",
+   "language": "Spanish",
+   "audio": "audio/fe09e2cf7a8f3a46569ed18ddea40ac067ae3086.mp3"
+  },
+  {
+   "category": "History-Green Bay",
+   "title": "GB Founding",
+   "level": "History",
+   "en": "The west side of the Fox River developed around Fort Howard, a United States military post established in 1816. Fort Howard eventually became its own city, separate from Green Bay. It wasn't until 1895 that Green Bay and Fort Howard consolidated into one city.",
+   "text": "El lado oeste del Fox River creció alrededor de Fort Howard, un puesto militar de los Estados Unidos establecido en 1816. Con el tiempo, Fort Howard se convirtió en su propia ciudad, separada de Green Bay. No fue sino hasta 1895 que Green Bay y Fort Howard se unieron en una sola ciudad.",
+   "language": "Spanish",
+   "audio": "audio/a545f9d61ee2c370f1a2b3baa894861850180cbd.mp3"
+  },
+  {
+   "category": "History-Mexico",
+   "title": "First Boyfriend",
+   "level": "History",
+   "en": "This next question will mean you need to think way back in your history. What was the name of your first boyfriend?",
+   "text": "Para la siguiente pregunta, va a tener que recordar algo de hace mucho tiempo. ¿Cómo se llamaba su primer novio?",
+   "language": "Spanish",
+   "audio": "audio/14839a1fdcb9a5ceafda9598d15433823382d9c8.mp3"
+  }
+ ]
+}
