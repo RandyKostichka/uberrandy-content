@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:17:43+00:00",
+ "updated": "2026-11-04T13:21:14+00:00",
  "messages": [
   {
    "category": "Basic",
@@ -50,10 +50,10 @@
    "category": "CasaAlba",
    "title": "Homeless",
    "level": "Humor",
-   "en": "We talk about these homeless people every week that we drive past them. On November 1, the shelter opens so they can sleep inside at night. Can you imagine how cold it is sleeping on the streets of Green Bay in the winter?",
-   "text": "Cada semana, cuando pasamos junto a estas personas sin hogar, hablamos de ellas. El 1 de noviembre abre el albergue para que puedan dormir adentro por la noche. ¿Se imagina el frío que hace al dormir en las calles de Green Bay en invierno?",
+   "en": "Its now after November 1, so the homeless are supposed to be sleeping inside the shelter at night. Some of them refuse to go inside, so they remain sleeping on the streets. The shelter closes around 9am, so the people are outside during the daytime.",
+   "text": "Ya pasó el 1 de noviembre, así que las personas sin hogar deberían estar durmiendo adentro del albergue por la noche. Algunas se niegan a entrar, y por eso siguen durmiendo en la calle. El albergue cierra como a las nueve de la mañana, así que la gente pasa el día afuera.",
    "language": "Spanish",
-   "audio": "audio/d6eb54923e53887cc24bff9d00e5a58bf7bf4d05.mp3"
+   "audio": "audio/beec9dac9d4f64af46ce4915e26d4c8a6aa69e80.mp3"
   },
   {
    "category": "CasaAlba",
@@ -77,10 +77,10 @@
    "category": "Information",
    "title": "My band scheudle",
    "level": "Fact",
-   "en": "I mentioned this last week. Today I will remind you. My band is playing at the Cup of Joy in Green Bay on on Friday November 27. You can come and listen to our Christmas show. It starts at 7:30pm. It’s a free show so you an invite your family to come too.",
-   "text": "Se lo mencioné la semana pasada, y hoy se lo recuerdo. Mi banda va a tocar en el Cup of Joy en Green Bay el viernes 27 de noviembre. Puede venir a escuchar nuestro concierto de Navidad. Empieza a las siete y media de la noche. La entrada es gratis, así que también puede invitar a su familia.",
+   "en": "I mentioned this last week. Today I will remind you again. On \"Black Friday\", My band is playing at the Cup of Joy in Green Bay on on Friday November 27. You can come and listen to our Christmas show. It starts at 7:30pm. It’s a free show so you an invite your family to come too.",
+   "text": "Se lo mencioné la semana pasada, y hoy se lo recuerdo otra vez. El Viernes Negro, el viernes 27 de noviembre, mi banda va a tocar en el Cup of Joy en Green Bay. Puede venir a escuchar nuestro concierto de Navidad. Empieza a las siete y media de la noche. La entrada es gratis, así que también puede invitar a su familia.",
    "language": "Spanish",
-   "audio": "audio/8ca1c3eeb7eaa384ca4bed4e0194a32cccc19298.mp3"
+   "audio": "audio/a6390f8a388c092fa2662929b7101f093967c0a2.mp3"
   },
   {
    "category": "History-Mexico",
@@ -129,12 +129,12 @@
   },
   {
    "category": "History-Mexico",
-   "title": "First Boyfriend",
+   "title": "Historical Event",
    "level": "History",
-   "en": "This next question will mean you need to think way back in your history. What was the name of your first boyfriend?",
-   "text": "Para la siguiente pregunta, va a tener que recordar algo de hace mucho tiempo. ¿Cómo se llamaba su primer novio?",
+   "en": "I know you were waiting for this weeks questions. So here is the question for today. What is the historical event that you remember that happened when you were younger that you would like to share with your grand children. For me, I remember the US President, Jimmy Carter and how the gas prices were very high and there were long lines for gas in the 1970's. Now its your turn. What is one event from history to share.",
+   "text": "Sé que estaba esperando la pregunta de esta semana. Así que aquí está la pregunta de hoy. ¿Qué acontecimiento histórico recuerda de cuando era más joven y le gustaría compartir con sus nietos? Yo recuerdo al presidente de los Estados Unidos, Jimmy Carter, y que la gasolina estaba carísima y había filas larguísimas para cargar gasolina en los años setenta. Ahora le toca a usted. ¿Qué acontecimiento de la historia le gustaría compartir?",
    "language": "Spanish",
-   "audio": "audio/14839a1fdcb9a5ceafda9598d15433823382d9c8.mp3"
+   "audio": "audio/039d0a1291093f698907ab5b9ba43047be4ed42b.mp3"
   }
  ]
 }
