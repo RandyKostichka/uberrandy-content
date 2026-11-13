@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:32:21+00:00",
+ "updated": "2026-11-13T02:37:58+00:00",
  "messages": [
   {
    "category": "Basic",
@@ -30,6 +30,15 @@
   },
   {
    "category": "American History",
+   "title": "Quiz",
+   "level": "Humor",
+   "en": "Listen carefully to the next few things I have to tell you. There will be a test at the end to test your knowledge.",
+   "text": "Escuche con atención las próximas cosas que le voy a contar. Al final habrá un examen para ver cuánto aprendió.",
+   "language": "Spanish",
+   "audio": "audio/cdae874ca3bb40c56361ae504827cf50af20ad2b.mp3"
+  },
+  {
+   "category": "American History",
    "title": "Thanksgiving history",
    "level": "History",
    "en": "Today, I want to share a story with you that began more than 400 years ago. In 1620, a group of families traveled from England to what we now call the United States. They were looking for a new life, but what they found was a very difficult winter. Many of them died from hunger, sickness, and the cold. They were far from home, struggling to survive in an unfamiliar land. The Native American people, who had lived in that area for thousands of years, shared their knowledge and helped the newcomers learn how to grow food.",
@@ -49,6 +58,15 @@
   {
    "category": "American History",
    "title": "Thanksgiving history 3",
+   "level": "History",
+   "en": "Even during a war, when families were suffering and the country was divided, Lincoln believed there was still something to be thankful for. And that brings us to the real meaning of Thanksgiving. All of you have lived many years. You have worked hard, raised families, experienced happiness, and probably faced some very difficult moments. You have seen the world change. You have watched children grow up. Perhaps you now have grandchildren or even great-grandchildren. And through all those years, you have probably learned something very important: The most valuable things in life cannot be purchased with money.",
+   "text": "Aun en plena guerra, cuando las familias sufrían y el país estaba dividido, Lincoln creía que todavía había algo por qué dar gracias. Y eso nos lleva al verdadero significado de Thanksgiving. Todos ustedes han vivido muchos años. Han trabajado duro, han sacado adelante a sus familias, han conocido la felicidad y seguramente han pasado por momentos muy difíciles. Han visto cambiar el mundo. Han visto crecer a sus hijos. Tal vez ahora tengan nietos o hasta bisnietos. Y a lo largo de todos esos años, seguramente han aprendido algo muy importante: lo más valioso de la vida no se puede comprar con dinero.",
+   "language": "Spanish",
+   "audio": "audio/deea99b33d8f6fa942666779d04a1f206b52d378.mp3"
+  },
+  {
+   "category": "American History",
+   "title": "Thanksgiving history 4",
    "level": "History",
    "en": "So later Elizabeth is going to ask you if you know the history of Thanksgiving. Now you will be ready to answer her. She's going to ask one thing that you are thankful for. What will you answer?",
    "text": "Más tarde, Elizabeth le va a preguntar si conoce la historia de Thanksgiving. Ahora ya va a estar listo para contestarle. Le va a preguntar por una cosa por la que usted está agradecido. ¿Qué le va a contestar?",
