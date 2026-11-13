@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:41:29+00:00",
+ "updated": "2026-11-13T02:45:20+00:00",
  "messages": [
   {
    "category": "Basic",
@@ -90,6 +90,15 @@
    "text": "Tengo información sobre la historia de México. ¿Está listo para mis preguntas?",
    "language": "Spanish",
    "audio": "audio/0448374bb5dc66f491a84d143c19a7af9c9c3b9c.mp3"
+  },
+  {
+   "category": "Homeless",
+   "title": "Bring them food later?",
+   "level": "Information",
+   "en": "You see these people are still hanging outside even though its getting colder? Maybe someone can bring them the left over food that you will be receiving today.",
+   "text": "¿Ve que estas personas siguen afuera aunque ya está haciendo más frío? Tal vez alguien pueda llevarles la comida que le sobre de lo que va a recibir hoy.",
+   "language": "Spanish",
+   "audio": "audio/e43b8e972ce07915feda20b0f8a0f697837b5c9b.mp3"
   }
  ]
 }
