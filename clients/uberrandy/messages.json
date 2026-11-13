@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:45:20+00:00",
+ "updated": "2026-11-13T02:49:17+00:00",
  "messages": [
   {
    "category": "Basic",
@@ -86,10 +86,10 @@
    "category": "History-Mexico",
    "title": "History tour guide",
    "level": "History",
-   "en": "I have some history information about Mexico. Are you ready for me to ask my questions?",
-   "text": "Tengo información sobre la historia de México. ¿Está listo para mis preguntas?",
+   "en": "Mexico does not have a national holiday exactly like Thanksgiving in the United States. However, Mexico has several traditions that celebrate gratitude, family, faith, and the harvest. The closest comparisons could be Harvest celebrations (Fiestas de la Cosecha) The Feast of Our Lady of Guadalupe For many Mexican Catholics, the Feast of Our Lady of Guadalupe is one of the most important religious celebrations of the year. Families gather, attend Mass, pray, and express gratitude for blessings and answered prayers.",
+   "text": "México no tiene un día festivo nacional exactamente como Thanksgiving en los Estados Unidos. Sin embargo, en México hay varias tradiciones que celebran la gratitud, la familia, la fe y la cosecha. Lo más parecido serían las fiestas de la cosecha y la fiesta de la Virgen de Guadalupe. Para muchos católicos mexicanos, la fiesta de la Virgen de Guadalupe es una de las celebraciones religiosas más importantes del año. Las familias se reúnen, van a misa, rezan y dan gracias por sus bendiciones y por las oraciones escuchadas.",
    "language": "Spanish",
-   "audio": "audio/0448374bb5dc66f491a84d143c19a7af9c9c3b9c.mp3"
+   "audio": "audio/00ffef3fdc2f21b6b7758316909ee0b10609bcfb.mp3"
   },
   {
    "category": "Homeless",
