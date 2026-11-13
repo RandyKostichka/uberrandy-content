@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:14:02+00:00",
+ "updated": "2026-11-13T02:24:17+00:00",
  "messages": [
   {
    "category": "Basic",
@@ -17,7 +17,7 @@
    "en": "Today we are going to go off the road through the fields and in the river. Make sure you have your seatbelt on.",
    "text": "Hoy nos vamos a salir de la carretera, a cruzar los campos y a meternos al río. Asegúrese de tener puesto el cinturón de seguridad.",
    "language": "Spanish",
-   "audio": "audio/9e4ee746107534ab38b241788de86a05b69d0473.mp3"
+   "audio": "audio/bebc6cd4a0ff157cc0f1927871697bb6cefa6842.mp3"
   },
   {
    "category": "Basic",
@@ -26,25 +26,16 @@
    "en": "Do you know that the Y.W.C.A stands for? The Young Womens Christian Association. We are going to the Y.M.C.A today. Not the Y.W.C.A. There are more men at the Young Mens Christian Association.",
    "text": "¿Sabe qué significa la ye, doble u, ce, a? La Asociación Cristiana de Mujeres Jóvenes. Hoy vamos a la ye, eme, ce, a. No a la ye, doble u, ce, a. En la Asociación Cristiana de Hombres Jóvenes hay más hombres.",
    "language": "Spanish",
-   "audio": "audio/34d393d05a8ad4ff119abfbc484af7ba41a8219e.mp3"
+   "audio": "audio/700a4555d088fbd5db3f882251c4cb1e2f2a130d.mp3"
   },
   {
-   "category": "CasaAlba",
-   "title": "Casa Alba History",
+   "category": "American History",
+   "title": "Thanksgiving history",
    "level": "History",
-   "en": "Welcome to a service provided by Casa Alba Melanie in Green Bay. I was part of the founding committee many years ago",
-   "text": "Bienvenido a un servicio ofrecido por Casa Alba Melanie en Green Bay. Hace muchos años formé parte del comité fundador.",
+   "en": "Today, I want to share a story with you that began more than 400 years ago. In 1620, a group of families traveled from England to what we now call the United States. They were looking for a new life, but what they found was a very difficult winter. Many of them died from hunger, sickness, and the cold. They were far from home, struggling to survive in an unfamiliar land. The Native American Wampanoag people, who had lived in that area for thousands of years, shared their knowledge and helped the newcomers learn how to grow food.",
+   "text": "Hoy quiero compartir con usted una historia que empezó hace más de cuatrocientos años. En 1620, un grupo de familias viajó desde Inglaterra a lo que hoy llamamos los Estados Unidos. Buscaban una vida nueva, pero lo que encontraron fue un invierno muy difícil. Muchos murieron de hambre, de enfermedades y de frío. Estaban lejos de casa, luchando por sobrevivir en una tierra desconocida. El pueblo indígena wampanoag, que había vivido en esa zona durante miles de años, compartió sus conocimientos y ayudó a los recién llegados a aprender a cultivar sus alimentos.",
    "language": "Spanish",
-   "audio": "audio/ee93befcf89572037103474d16adf36f4276ef90.mp3"
-  },
-  {
-   "category": "CasaAlba",
-   "title": "Homeless",
-   "level": "Humor",
-   "en": "Its now after November 1, so the homeless are supposed to be sleeping inside the shelter at night. Some of them refuse to go inside, so they remain sleeping on the streets. The shelter closes around 9am, so the people are outside during the daytime.",
-   "text": "Ya pasó el 1 de noviembre, así que las personas sin hogar deberían estar durmiendo adentro del albergue por la noche. Algunas se niegan a entrar, y por eso siguen durmiendo en la calle. El albergue cierra como a las nueve de la mañana, así que la gente pasa el día afuera.",
-   "language": "Spanish",
-   "audio": "audio/beec9dac9d4f64af46ce4915e26d4c8a6aa69e80.mp3"
+   "audio": "audio/6b282c9c81469d82cb89ccf5842709ea6ed081af.mp3"
   },
   {
    "category": "CasaAlba",
@@ -54,15 +45,6 @@
    "text": "Nos encontramos con estas personas en la calle los miércoles y jueves por la noche para darles comida. Si quiere participar, avíseme.",
    "language": "Spanish",
    "audio": "audio/cfe2afbaab77fa570c409fd05206cc7111127d8d.mp3"
-  },
-  {
-   "category": "Basic",
-   "title": "Hola Hola",
-   "level": "Fact",
-   "en": "I created this application so that I could talk to all of you.",
-   "text": "Creé esta aplicación para poder hablar con todos ustedes.",
-   "language": "Spanish",
-   "audio": "audio/d7339f69bb4b4aa54579fecf00cb5726f096f616.mp3"
   },
   {
    "category": "Information",
